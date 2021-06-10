@@ -1,0 +1,12 @@
+PRIMEIRO PASSO
+
+Entre no “Glary Utilities 5” e clique no terceiro ícone de uma vassoura, em seguida será aberta uma janela limpando o disco, execute a função de “limpeza do disco” até ficar completamente limpo.
+
+SEGUNDO PASSO
+
+Entre no “Avast” e vá em “Proteção” na barra lateral, assim que você clicar em “proteção”, surgirá uma tela com algumas opções, clique na primeira opção que tem o ícone de lupa com nome de “Escaneamento de vírus”. Em seguida abrirá uma tela, clique no ícone de microscópio com nome de escaneamento completo.
+
+TERCEIRO PASSO
+
+ Aperte a tecla “Win” e digite “cmd”, será aberto uma janela preta e algumas especificações, digite “sfc /scannow”, esse comando verificará todos os arquivos protegidos do sistema, substituindo arquivos corrompidos.
+
