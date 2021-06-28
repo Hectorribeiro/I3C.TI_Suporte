@@ -1,0 +1,8 @@
+Como apagar e adicionar uma nova máquina virtual pelo Virtual Box	
+
+Primeiro acesse o virtual box, aparecerá no lado esquerdo a máquina virtual, em seguida clique com o botão direito do mouse em cima da máquina virtual e selecione a opção “remover apenas".
+
+Em seguida você será direcionado para  a aba de ferramentas, clique no ícone com um sinal de + na cor verde.
+
+Procure onde os arquivos da máquina virtual estava e abra o arquivo, e pronto, foi adicionada uma nova máquina virtual. 
+
